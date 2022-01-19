@@ -1,0 +1,2 @@
+This folder contains 3 files which are threads for main
+hi, hello are threads that runs from main

@@ -1,5 +1,5 @@
 # Javaprob
-practice for java syntax and concepts
+My Practice for Java Syntax and Concepts
 
 This repository contains the following programs
 
